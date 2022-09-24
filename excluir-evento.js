@@ -1,6 +1,7 @@
 const urll = 'https://xp41-soundgarden-api.herokuapp.com/events/'
 
 
+
 const btnDelete = document.getElementsByClassName('btn btn-danger')
 const deleteBtn = btnDelete[0]
 deleteBtn.setAttribute("id","deleteBottom")

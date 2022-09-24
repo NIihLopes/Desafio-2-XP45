@@ -1,3 +1,4 @@
+//git
 const nome = document.getElementById('nome')
 const banner = document.getElementById('banner')
 const atracoes = document.getElementById('atracoes')

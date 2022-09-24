@@ -1,6 +1,6 @@
 // LINK DA API
 const url = 'https://xp41-soundgarden-api.herokuapp.com/events/'
-
+//git
 
 function redirecionar() {
     // função para redirecionar o usuário para a página admin.html ao terminar
